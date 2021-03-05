@@ -1,4 +1,4 @@
-## Portfolio
+## Work Examples
 
 ---
 
@@ -7,6 +7,7 @@
 
 <img src="images/PHI_patientmodel.jpg" width="102" height="132"/><br>
 [Philippines]<br>
+Operation Smile began programs in the Philippines in 1982, and since then has cared for thousands of patients. As the Philippines changed, the organization and the programs evolved to better meet their needs. 
 
 
 ---
