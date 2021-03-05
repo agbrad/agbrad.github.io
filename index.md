@@ -13,7 +13,7 @@
 
 ---
 [Guatemala]
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/GTM_allPATIENTS.jpg"/>
 
 
 
