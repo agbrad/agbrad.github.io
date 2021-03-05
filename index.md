@@ -5,7 +5,7 @@
 ### Field Mapping
 
 [Philippines]
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/PHI_patientmodel.jpg"/>
 
 ---
 [Malawi]
