@@ -4,17 +4,20 @@
 
 ### Field Mapping
 
+
+<img src="images/PHI_patientmodel.jpg" width="102" height="132"/><br>
 [Philippines]<br>
-<img src="images/PHI_patientmodel.jpg" width="102" height="132"/>
+
 
 ---
+
+<img src="images/Malawi_post-op-1.jpg" width="106.25" height="137.5"/><br>
 [Malawi]<br>
-<img src="images/Malawi_post-op-1.jpg" width="106.25" height="137.5"/>
 
 ---
-[Guatemala]<br>
-<img src="images/GTM_allPATIENTS.jpg" width="102" height="132"/>
 
+<img src="images/GTM_allPATIENTS.jpg" width="102" height="132"/><br>
+[Guatemala]<br>
 
 
 ---
