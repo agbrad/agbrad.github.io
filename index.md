@@ -4,15 +4,15 @@
 
 ### Field Mapping
 
-[Philippines]
+[Philippines]<br>
 <img src="images/PHI_patientmodel.jpg" width="408" height="528"/>
 
 ---
-[Malawi]
+[Malawi]<br>
 <img src="images/Malawi_post-op-1.jpg" width="425" height="550"/>
 
 ---
-[Guatemala]
+[Guatemala]<br>
 <img src="images/GTM_allPATIENTS.jpg" width="408" height="528"/>
 
 
