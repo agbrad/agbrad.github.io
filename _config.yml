@@ -5,6 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Hi! I'm Allison. 
   <br><br>
   I'm a geographer at heart, and love to use maps to solve complex challenges. Here are a few examples.
+  <br><br>
   <a href="https://www.linkedin.com/in/agbrad/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
