@@ -9,7 +9,7 @@
 
 ---
 [Malawi]
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Malawi_post-op-1.jpg"/>
 
 ---
 [Guatemala]
