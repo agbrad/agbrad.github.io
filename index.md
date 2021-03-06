@@ -2,7 +2,7 @@
 
 ---
 
-### <a href="agbrad.github.io/FieldMapping">Field Mapping</a>
+### <a href="https://agbrad.github.io/FieldMapping/">Field Mapping</a>
 
 
 <img src="images/PHI_patientmodel.jpg" width="102" height="132"/><br>
